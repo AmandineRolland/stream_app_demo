@@ -19,7 +19,7 @@ st.write("Hello guys")
 
 
 # read the dataframe
-total_data=pd.read_pickle("stream_data.pkl")
+total_data=pd.read_pickle("https://github.com/AmandineRolland/stream_app_demo/blob/main/stream_data.pkl")
 
 # select a scan id
 scan_id=total_data['Scan ID'].unique()
