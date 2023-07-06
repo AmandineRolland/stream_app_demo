@@ -98,7 +98,7 @@ nbclient @ file:///C:/ci/nbclient_1650290387259/work
 nbconvert @ file:///C:/b/abs_4av3q4okro/croot/nbconvert_1668450658054/work
 nbformat @ file:///C:/b/abs_85_3g7dkt4/croot/nbformat_1670352343720/work
 nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
-netCDF4==1.6.3
+netCDF4 @ file:///C:/b/abs_e8sfulljvr/croot/netcdf4_1673455470770/work
 notebook @ file:///C:/b/abs_ca13hqvuzw/croot/notebook_1668179888546/work
 notebook_shim @ file:///C:/b/abs_ebfczttg6x/croot/notebook-shim_1668160590914/work
 numexpr @ file:///C:/b/abs_a7kbak88hk/croot/numexpr_1668713882979/work
@@ -123,7 +123,7 @@ plotly-express==0.4.1
 pluggy @ file:///C:/ci/pluggy_1648024580010/work
 ply==3.11
 polars @ file:///D:/bld/polars_1682966411344/work/target/wheels/polars-0.17.11-cp37-abi3-win_amd64.whl#sha256=c8a6bf7106393e476b9811f3eaeddaec77c403ac73665a5a727b3e5dbbaeef60
-pooch==1.7.0
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
 poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
 prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
 prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
