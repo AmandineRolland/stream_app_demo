@@ -5,13 +5,12 @@ Created on Tue Jun 27 09:08:52 2023
 @author: AMROL
 """
 import pandas as pd
-import calisolpy
 import streamlit as st
 import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.figure_factory as ff
-import os
+
 
 
 st.title("CALISOL 	:sun_with_face:")
